@@ -10,7 +10,7 @@
 - :floppy_disk: Базы данных
 - :man_technologist: Диплом
 
-## Описание проектов:
+## :page_with_curl: Описание проектов:
 |        №      | Ссылка            | Краткое описание                                                 | Применяемые инструменты | 
 |---------------|-------------------|------------------------------------------------------------------|-------------------------|
 |1              |[Проектирование тестов / Design Tests](https://github.com/AlexTLG/Yandex.Praktikum.QA/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2)| Тестируем сервис Яндекс.Маршруты, смотри КЭ и ГЗ, формирем отчёт / Test the Yandex.Routes service, describe Equivalence Classes & the Boundary Values, generate report |MS Excel| 
