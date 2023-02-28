@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Тестирование веб-приложений / Testing mobile apps and APIs
+# :chart_with_upwards_trend: Тестирование мобильных приложений и API / Testing mobile apps and APIs
 
 ## :bookmark_tabs: Задание / Tasks:
 - Необходимо протестировать сервис Яндекс.Маршруты / Test the Yandex.Routes service :white_check_mark: 
