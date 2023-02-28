@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Тестирование веб-приложений / Testing web applications
+# :spider_web: Тестирование веб-приложений / Testing web applications
 
 ## :bookmark_tabs: Задание / Tasks:
 - Необходимо протестировать сервис Яндекс.Маршруты / Test the Yandex.Routes service :white_check_mark: 
