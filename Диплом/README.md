@@ -1,4 +1,4 @@
-# :man_technologist: Проектирование тестов / Design Tests
+# :man_technologist: Диплом / Diploma
 
 ## :bookmark_tabs: Задание / Tasks:
 - Необходимо протестировать сервис Яндекс.Самокат / Test the Yandex.Scooter service :white_check_mark:
