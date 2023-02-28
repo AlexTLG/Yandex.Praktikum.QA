@@ -14,7 +14,7 @@
 ## :hammer_and_wrench: Инструменты / Tools:
 - Microsoft Excel :briefcase:
 - Тренажёр Яндекс.Практикум :desktop_computer:
-- Draw.IO :straight_ruler:
+- Draw.io :straight_ruler:
 - Figma :card_file_box:
 - Yandex.Tracker :file_cabinet:
 - Postman :envelope:
