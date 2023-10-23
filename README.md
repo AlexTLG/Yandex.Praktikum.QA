@@ -1,4 +1,4 @@
-# :mag_right: Инженер по тестированию — Яндекс.Практикум 
+# :mag_right: Инженер по тестированию — Яндекс.Практикум / Testing Engineer — Yandex.Praktikum
 
 *:bookmark: Ссылка на пройденный курс:  [Инженер по тестированию](https://practicum.yandex.ru/qa-engineer/)*
 
